@@ -1,8 +1,7 @@
-## Docker & K8 Assignment
+# Docker & K8 Assignment
 
 ## Deploy any Spring boot Application using Docker on Kubernetes. 
-
-# Perform all the following tasks 
+## Perform all the following tasks 
 1. Create a REST API Endpoint using the Spring boot framework.
 2. Create a Docker File for the same.
 3. Use GitHub for a sample application & Push the Code along with the Docker File. 
